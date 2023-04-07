@@ -1,0 +1,8 @@
+@use 'resources/variables/fonts' as *;
+
+@font-face {
+    font-family: Titillium-Web;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../assets/fonts/TitilliumWeb-Light.ttf) format('truetype')
+}

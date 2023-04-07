@@ -1,0 +1,10 @@
+.el-header {
+    background-image: url(/src/assets/images/mars-orbita.jpg);
+    min-height: calc(100vh);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+}

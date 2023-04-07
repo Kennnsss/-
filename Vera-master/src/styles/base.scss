@@ -1,0 +1,21 @@
+@use 'resources/variables' as *;
+
+html,
+#app,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: $font--main;
+  background-color: $color--black;
+
+  color: $color--white;
+}
+
+.container {
+  max-width: 1500px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
